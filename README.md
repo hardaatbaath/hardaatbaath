@@ -6,7 +6,7 @@
 I am a pre-final student at BITS Goa. I am a driven and enthusiastic problem solver who likes to think outside the box. I work well with others and appreciate the value of collaboration. I am always eager to learn new things and explore new domains. I have strong leadership skills and have led several teams for academic and non-academic projects. Teamwork is essential for success, and I always strive to support my team members. I enjoy solving problems creatively and taking on new challenges.
 
 <p align="center">
-<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://img.icons8.com/color-glass/96/domain.png" width="35px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://hardaat-singh-baath.vercel.app/"><img src="https://img.icons8.com/color-glass/96/domain.png" width="35px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/hardaat-singh-baath/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="https://orcid.org/0009-0000-8405-0125"><img src="https://img.icons8.com/color/48/google-scholar--v3.png" width="35px" alt="mail"></a> &nbsp; &nbsp;
 <a href="mailto:hardaatsinghbaath@gmail.com"><img src="https://img.icons8.com/color/30/000000/gmail-new.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
