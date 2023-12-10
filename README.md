@@ -1,20 +1,18 @@
-### Hi there 👋, I am Hardaat
-#### I am a Deep Learning Enthusiast
-<img src = "https://github.com/hardaatbaath/hardaatbaath/blob/main/IN%20Bground.jpeg" width="1024" height="256"/>
+<img src = "https://github.com/hardaatbaath/hardaatbaath/blob/main/gif3.gif" width="1024" height="256"/>
+
+### Hi there 👋, I am Hardaat Singh Baath
+#### I am a Deep Learning and Robotics Enthusiast
+
+I am a pre-final student at BITS Goa. I am a driven and enthusiastic problem solver who likes to think outside the box. I work well with others and appreciate the value of collaboration. I am always eager to learn new things and explore new domains. I have strong leadership skills and have led several teams for academic and non-academic projects. Teamwork is essential for success, and I always strive to support my team members. I enjoy solving problems creatively and taking on new challenges.
 
 <p align="center">
 <a href="mailto:hardaatsinghbaath@gmail.com"><img src="https://img.icons8.com/color/30/000000/gmail-new.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/hardaat-singh-baath/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://github.com/hardaatbaath"><img src="https://img.icons8.com/nolan/30/github.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://github.com/hardaatbaath"><img src="https://icons8.com/icon/52539/github.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://img.icons8.com/nolan/30/github.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
+
 
 </p>
-
-I am a pre-final student at BITS Goa. I have a keen interest in DL and have worked on various projects involving Robotics, Deep Learning and Computer Vision. 
-I am proficient in C++, Java, Python, MATLAB, Haskell, and Rust, and I have used frameworks such as Tensorflow, Pytorch and Robotics Operating System (ROS). 
-I am also familiar with simulation tools like Gazebo and CoppeliaSim. I enjoy solving problems creatively and taking on new challenges.
-
-Skills: C++ / Python / Robotics Operating System / Deep Learning / Computer Vision
-
 
 <p>
   
