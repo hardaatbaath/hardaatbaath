@@ -8,8 +8,8 @@ I am a pre-final student at BITS Goa. I am a driven and enthusiastic problem sol
 <p align="center">
 <a href="mailto:hardaatsinghbaath@gmail.com"><img src="https://img.icons8.com/color/30/000000/gmail-new.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/hardaat-singh-baath/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://github.com/hardaatbaath"><img src="https://icons8.com/icon/52539/github.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://img.icons8.com/nolan/30/github.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://github.com/hardaatbaath"><img src="https://img.icons8.com/nolan/64/github.png" width="40px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/icons8-orcid-32.png" width="40px" alt="mail"></a> &nbsp; &nbsp;
 
 
 </p>
