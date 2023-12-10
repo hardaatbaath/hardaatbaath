@@ -2,7 +2,16 @@
 #### I am a Deep Learning Enthusiast
 <img src = "https://github.com/hardaatbaath/hardaatbaath/blob/main/IN%20Bground.jpeg" width="1024" height="256"/>
 
-I am a pre-final student at BITS Goa. I have a keen interest in DL and have worked on various projects involving Robotics, Deep Learning and Computer Vision. I am proficient in C++, Java, Python, MATLAB, Haskell, and Rust, and I have used frameworks such as Tensorflow, Pytorch and Robotics Operating System (ROS). I am also familiar with simulation tools like Gazebo and CoppeliaSim. I enjoy solving problems creatively and taking on new challenges.
+<p align="center">
+<a href="mailto:hardaatsinghbaath@gmail.com"><img src="https://img.icons8.com/color/30/000000/gmail-new.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/hardaat-singh-baath/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="https://github.com/hardaatbaath"><img src="https://img.icons8.com/nolan/30/github.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
+
+</p>
+
+I am a pre-final student at BITS Goa. I have a keen interest in DL and have worked on various projects involving Robotics, Deep Learning and Computer Vision. 
+I am proficient in C++, Java, Python, MATLAB, Haskell, and Rust, and I have used frameworks such as Tensorflow, Pytorch and Robotics Operating System (ROS). 
+I am also familiar with simulation tools like Gazebo and CoppeliaSim. I enjoy solving problems creatively and taking on new challenges.
 
 Skills: C++ / Python / Robotics Operating System / Deep Learning / Computer Vision
 
