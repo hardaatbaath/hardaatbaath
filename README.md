@@ -3,7 +3,7 @@
 # Hi there 👋, I am Hardaat Singh Baath
 ### I am a Deep Learning and Robotics Enthusiast
 
-I am a pre-final student at BITS Goa. I am a driven and enthusiastic problem solver who likes to think outside the box. I work well with others and appreciate the value of collaboration. I am always eager to learn new things and explore new domains. I have strong leadership skills and have led several teams for academic and non-academic projects. Teamwork is essential for success, and I always strive to support my team members. I enjoy solving problems creatively and taking on new challenges.
+I am a pre-final student at BITS Goa. I am a driven and enthusiastic problem solver who likes to think outside the box. I work well with others and appreciate the value of collaboration. I am always eager to learn new things and explore new domains. I have worked in the field of Robotics and Applied ML. Teamwork is essential for success, and I always strive to support my team members. I enjoy solving problems creatively and taking on new challenges.
 
 <p align="center">
 <a href="https://hardaat-singh-baath.vercel.app/"><img src="https://img.icons8.com/color-glass/96/domain.png" width="35px" alt="mail"></a> &nbsp; &nbsp;
