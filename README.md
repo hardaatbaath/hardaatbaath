@@ -1,6 +1,6 @@
 <img src = "https://github.com/hardaatbaath/hardaatbaath/blob/main/gif3.gif" width="1024" height="256"/>
 
-## Hi there 👋, I am Hardaat Singh Baath
+# Hi there 👋, I am Hardaat Singh Baath
 ### I am a Deep Learning and Robotics Enthusiast
 
 I am a pre-final student at BITS Goa. I am a driven and enthusiastic problem solver who likes to think outside the box. I work well with others and appreciate the value of collaboration. I am always eager to learn new things and explore new domains. I have strong leadership skills and have led several teams for academic and non-academic projects. Teamwork is essential for success, and I always strive to support my team members. I enjoy solving problems creatively and taking on new challenges.
@@ -13,10 +13,10 @@ I am a pre-final student at BITS Goa. I am a driven and enthusiastic problem sol
 <a href="https://orcid.org/0009-0000-8405-0125"><img src="https://img.icons8.com/color-glass/96/domain.png" width="40px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://orcid.org/0009-0000-8405-0125"><img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/icons8-google-scholar-100.png" width="40px" alt="mail"></a> &nbsp; &nbsp;
 
-
 </p>
 
-### Skills and Experience:
+&nbsp;
+## Skills and Experience:
 * Languages:
   * C/C++
   * Python
@@ -39,10 +39,11 @@ I am a pre-final student at BITS Goa. I am a driven and enthusiastic problem sol
   * Vim
   * Jupyter Notebook
 
-
+&nbsp;  
+## Statistics:
 <p>
   
-|![Hardaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&theme=tokyonight&custom_title=Hardaat's%20GitHub%20Stats)  | ![Hardaat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardaatbaath&theme=tokyonight) |
+| ![Hardaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&theme=tokyonight&custom_title=Hardaat's%20GitHub%20Stats)  | ![Hardaat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardaatbaath&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardaatbaath&theme=tokyonight&custom_title=Language%20Stats&layout=donut-vertical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) |
 </p>
