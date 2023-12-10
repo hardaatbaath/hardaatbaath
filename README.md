@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Hardaat
 #### I am a Deep Learning Enthusiast
-![I am a Deep Learning Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<img src = "https://github.com/hardaatbaath/hardaatbaath/blob/main/IN%20Bground.jpeg" width="1024" height="256"/>
 
 I am a pre-final student at BITS Goa. I have a keen interest in DL and have worked on various projects involving Robotics, Deep Learning and Computer Vision. I am proficient in C++, Java, Python, MATLAB, Haskell, and Rust, and I have used frameworks such as Tensorflow, Pytorch and Robotics Operating System (ROS). I am also familiar with simulation tools like Gazebo and CoppeliaSim. I enjoy solving problems creatively and taking on new challenges.
 
