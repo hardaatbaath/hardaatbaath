@@ -59,7 +59,7 @@ I believe teamwork is essential for success, and I always strive to support my t
  &nbsp; &nbsp; &nbsp; &nbsp;  
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/numpy.png" alt="numpy" width="40" height="40"/> </a> &nbsp; &nbsp;
  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:396/1*oNts6NyKkijiGUfLrPRDxg.png" alt="matplotlib" width="40" height="40"/> </a> &nbsp; &nbsp;
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>&nbsp; &nbsp;
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/000000/pandas.png" alt="pandas" width="40" height="40"/> </a>&nbsp; &nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>&nbsp; &nbsp;
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp; &nbsp;
