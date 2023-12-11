@@ -91,9 +91,9 @@ I believe teamwork is essential for success, and I always strive to support my t
 ## Statistics:
 <p>
   
-| ![Hardaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&theme=tokyonight&custom_title=Hardaat's%20GitHub%20Stats)  | ![Hardaat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardaatbaath&theme=tokyonight) |
+| ![Hardaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&theme=tokyonight&custom_title=Hardaat's%20GitHub%20Stats%20Stats&disable_animations=true)  | ![Hardaat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardaatbaath&theme=tokyonight&disable_animations=true) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardaatbaath&theme=tokyonight&custom_title=Language%20Stats&layout=donut-vertical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardaatbaath&theme=tokyonight&custom_title=Language%20Stats&layout=donut-vertical&disable_animations=true) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=true) |
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hardaatbaath&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
