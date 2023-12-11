@@ -65,7 +65,7 @@ I believe teamwork is essential for success, and I always strive to support my t
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &nbsp; &nbsp;
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/material-two-tone/96/keras.png" alt="tensorflow" width="40" height="40"/> </a> &nbsp; &nbsp;
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/logo.png" alt="tensorflow" width="40" height="40"/> </a> &nbsp; &nbsp;
 
 * **Frameworks:**
  <p align="left"> 
