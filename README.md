@@ -1,4 +1,4 @@
-<img src = "https://github.com/hardaatbaath/hardaatbaath/blob/main/gif3.gif" width="1024" height="256"/>
+<img src = "https://github.com/hardaatbaath/hardaatbaath/blob/main/images/gif3.gif" width="1024" height="256"/>
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Hardaat Singh Baath
 ### I am a DL and Robotics Enthusiast
@@ -18,7 +18,7 @@ I am looking to collaborate in these fields !!
 <a href="HTTPS://hardaatbaath.wordpress.com"><img src="https://img.icons8.com/fluency/96/resume.png" width="35px" alt="mail"></a> &nbsp; &nbsp;
 <a href="mailto:hardaatsinghbaath@gmail.com"><img src="https://img.icons8.com/color/30/000000/gmail-new.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <!-- <a href="https://www.researchgate.net/profile/Hardaat-Singh-Baath"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" width="35px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/icons8-orcid-32.png" width="35px" alt="mail"></a> &nbsp; &nbsp; -->
+<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/icons8-orcid-32.png" width="35px" alt="mail"></a> &nbsp; &nbsp; -->
 
 </p>
 
@@ -65,7 +65,7 @@ I am looking to collaborate in these fields !!
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &nbsp; &nbsp;
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/logo.png" alt="keras" width="40" height="40"/> </a> &nbsp; &nbsp;
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/logo.png" alt="keras" width="40" height="40"/> </a> &nbsp; &nbsp;
 
 * **Frameworks:**
  <p align="left"> 
@@ -75,8 +75,8 @@ I am looking to collaborate in these fields !!
 * **Tools:**
 <p align="left"> 
 &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/gazebo_logo.png" alt="gazebo" width="40" height="40"/> </a> &nbsp; &nbsp;
-<a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/CoppeliaSim.png" alt="coppelia" width="40" height="40"/> </a> &nbsp; &nbsp;
+<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/gazebo_logo.png" alt="gazebo" width="40" height="40"/> </a> &nbsp; &nbsp;
+<a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/CoppeliaSim.png" alt="coppelia" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
 
 * **Platforms:**
