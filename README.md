@@ -1,6 +1,6 @@
 <img src = "https://github.com/hardaatbaath/hardaatbaath/blob/main/gif3.gif" width="1024" height="256"/>
 
-# Hi there 👋, I am Hardaat Singh Baath
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Hardaat Singh Baath
 ### I am a Deep Learning and Robotics Enthusiast
 
 I am a pre-final year undergraduate student pursuing a BE in Computer Science at BITS Pilani, Goa. 
