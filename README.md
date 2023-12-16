@@ -34,11 +34,11 @@ I am looking forward to collaborate in these fields !!
   * Matplotlib
   * Pandas
   * Seaborn
+* **Frameworks:**
+  * Robotics Operating System
   * PyTorch
   * Tensorflow
   * Keras 
-* **Frameworks:**
-  * Robotics Operating System
 * **Tools:**
   * Gazebo
   * CoppeliaSim -->
@@ -63,14 +63,15 @@ I am looking forward to collaborate in these fields !!
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>&nbsp; &nbsp;
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp; &nbsp;
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> &nbsp; &nbsp;
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &nbsp; &nbsp;
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/logo.png" alt="keras" width="40" height="40"/> </a> &nbsp; &nbsp;
+
 
 * **Frameworks:**
  <p align="left"> 
    &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/1656004.png" alt="ros" width="120" height="30"/> </a> &nbsp; &nbsp;
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> &nbsp; &nbsp;
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &nbsp; &nbsp;
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/logo.png" alt="keras" width="40" height="40"/> </a> &nbsp; &nbsp;
 
 * **Tools:**
 <p align="left"> 
