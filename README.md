@@ -2,6 +2,7 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Hardaat Singh Baath
 ### I am a DL and Robotics Enthusiast
+![](https://komarev.com/ghpvc/?username=hardaatbaath&color=blueviolet&style=for-the-badge&label=Profile+Visits)
 
 I am a pre-final year undergraduate student pursuing a BE in Computer Science at BITS Pilani, Goa. 
 I have actively worked in the field of **Robotics** and **Deep Learning** techniques.
