@@ -4,12 +4,12 @@
 ### I am a DL and Robotics Enthusiast
 ![](https://komarev.com/ghpvc/?username=hardaatbaath&color=blueviolet&style=for-the-badge&label=Profile+Visits)
 
-I am a pre-final year undergraduate student pursuing a BE in Computer Science at BITS Pilani, Goa. 
+I am a pre-final year undergraduate student pursuing a **BE in Computer Science at BITS Pilani, Goa.** 
 I have actively worked in the field of **Robotics** and **Deep Learning** techniques.
 I am a driven and enthusiastic problem solver who likes to think outside the box. I work well with others and appreciate the value of collaboration. 
 I am always eager to learn new things and explore new domains, and I don't allow temporary hurdles to stop me from doing that. 
 I believe teamwork is essential for success, and I always strive to support my team members.
-I am looking forward to collaborate in these fields !!
+I am looking forward to collaborating in these fields !!
 
 <p align="center">
 <a href="https://hardaat-singh-baath.vercel.app/"><img src="https://img.icons8.com/color-glass/96/domain.png" width="35px" alt="mail"></a> &nbsp; &nbsp;
