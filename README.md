@@ -62,6 +62,7 @@ I am looking forward to collaborating in these fields !!
  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:396/1*oNts6NyKkijiGUfLrPRDxg.png" alt="matplotlib" width="60" height="60"/></a> &nbsp; &nbsp;
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/000000/pandas.png" alt="pandas" width="60" height="60"/></a>&nbsp; &nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/></a> &nbsp; &nbsp;
+<a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="60" height="60"/></a> &nbsp; &nbsp;
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/></a>&nbsp; &nbsp;
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/></a> &nbsp; &nbsp;
 
