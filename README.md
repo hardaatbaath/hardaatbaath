@@ -1,23 +1,24 @@
 <img src = "https://github.com/hardaatbaath/hardaatbaath/blob/main/images/gif3.gif" width="1024" height="256"/>
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Hardaat Singh Baath
-### I am a DL and Robotics Enthusiast
+# <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Hardaat Singh Baath </h1>
+### <h3 align="center">I am a DL and Robotics Enthusiast</h3>
 ![](https://komarev.com/ghpvc/?username=hardaatbaath&color=blueviolet&style=for-the-badge&label=Profile+Visits)
 
-I am a pre-final year undergraduate student pursuing a **BE in Computer Science at BITS Pilani, Goa.** 
-I have actively worked in the field of **Robotics** and **Deep Learning** techniques.
-I am a driven and enthusiastic problem solver who likes to think outside the box. I work well with others and appreciate the value of collaboration. 
-I am always eager to learn new things and explore new domains, and I don't allow temporary hurdles to stop me from doing that. 
-I believe teamwork is essential for success, and I always strive to support my team members.
-I am looking forward to collaborating in these fields !!
+- 🎓 I am a **pre-final year undergraduate student** pursuing a **BE in Computer Science** at **BITS Pilani, Goa.** 
+- 🧠 I am interested in the field of **Robotics** and **Computer Vision**.
+- 🔍 I am looking for internship opportunities to collaborate in these fields.
+- 🤝 I am a **driven** and **enthusiastic problem solver** who likes to think outside the box. I believe in the value of teamwork.
+- ⚡  Fun fact **I love writing poetry.**
+- 📫 Feel free to contact me via my website, LinkedIn or good old email, I have shared the links to those and my resume below.
+
 
 <p align="center">
-<a href="https://hardaat-singh-baath.vercel.app/"><img src="https://img.icons8.com/color-glass/96/domain.png" width="45px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://hardaatbaath.github.io/"><img src="https://img.icons8.com/color-glass/96/domain.png" width="45px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/hardaat-singh-baath/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="45px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://img.icons8.com/color/48/google-scholar--v3.png" width="45px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://github.com/hardaatbaath"><img src="https://img.icons8.com/color-glass/96/github--v1.png" width="45px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://github.com/hardaatbaath/hardaatbaath/blob/main/data/Hardaat-Singh-Baath-CV.pdf"><img src="https://img.icons8.com/ultraviolet/40/parse-from-clipboard.png" width="45px" alt="mail"></a> &nbsp; &nbsp;
-<a href="mailto:hardaatsinghbaath@gmail.com"><img src="https://img.icons8.com/color/30/000000/gmail-new.png" width="45px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://img.icons8.com/color/96/google-scholar--v3.png" width="45px" alt="google scholar"></a> &nbsp; &nbsp;
+<a href="https://github.com/hardaatbaath"><img src="https://img.icons8.com/color-glass/96/github--v1.png" width="45px" alt="github"></a> &nbsp; &nbsp;
+<a href="https://hardaatbaath.github.io/data/Hardaat-Singh-Baath-Resume.pdf"><img src="https://img.icons8.com/ultraviolet/96/parse-from-clipboard.png" width="45px" alt="resume"></a> &nbsp; &nbsp;
+<a href="mailto:hardaatsinghbaath@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="45px" alt="mail"></a> &nbsp; &nbsp;
 <!-- <a href="https://www.researchgate.net/profile/Hardaat-Singh-Baath"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" width="35px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://orcid.org/0009-0000-8405-0125"><img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/icons8-orcid-32.png" width="35px" alt="mail"></a> &nbsp; &nbsp; -->
 
