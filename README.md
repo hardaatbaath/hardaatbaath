@@ -18,6 +18,7 @@
 <a href="https://www.linkedin.com/in/hardaat-singh-baath/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="45px" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="https://orcid.org/0009-0000-8405-0125"><img src="https://img.icons8.com/color/96/google-scholar--v3.png" width="45px" alt="google scholar"></a> &nbsp; &nbsp;
 <a href="https://github.com/hardaatbaath"><img src="https://img.icons8.com/color-glass/96/github--v1.png" width="45px" alt="github"></a> &nbsp; &nbsp;
+<a href="https://www.kaggle.com/hardaatsinghbaath"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" width="45px" alt="kaggle"></a> &nbsp; &nbsp;
 <a href="https://hardaatbaath.github.io/data/Hardaat-Singh-Baath-Resume.pdf"><img src="https://img.icons8.com/ultraviolet/96/parse-from-clipboard.png" width="45px" alt="resume"></a> &nbsp; &nbsp;
 <a href="mailto:hardaatsinghbaath@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="45px" alt="mail"></a> &nbsp; &nbsp;
 <!-- <a href="https://www.researchgate.net/profile/Hardaat-Singh-Baath"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" width="35px" alt="mail"></a> &nbsp; &nbsp;
