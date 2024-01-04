@@ -14,15 +14,15 @@
 
 
 <p align="center">
-<a href="https://hardaatbaath.github.io/"><img src="https://img.icons8.com/color-glass/96/domain.png" width="45px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/hardaat-singh-baath/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="45px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://img.icons8.com/color/96/google-scholar--v3.png" width="45px" alt="google scholar"></a> &nbsp; &nbsp;
-<a href="https://github.com/hardaatbaath"><img src="https://img.icons8.com/color-glass/96/github--v1.png" width="45px" alt="github"></a> &nbsp; &nbsp;
-<a href="https://www.kaggle.com/hardaatsinghbaath"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" width="45px" alt="kaggle"></a> &nbsp; &nbsp;
-<a href="https://hardaatbaath.github.io/data/Hardaat-Singh-Baath-Resume.pdf"><img src="https://img.icons8.com/ultraviolet/96/parse-from-clipboard.png" width="45px" alt="resume"></a> &nbsp; &nbsp;
-<a href="mailto:hardaatsinghbaath@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="45px" alt="mail"></a> &nbsp; &nbsp;
-<!-- <a href="https://www.researchgate.net/profile/Hardaat-Singh-Baath"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" width="35px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/icons8-orcid-32.png" width="35px" alt="mail"></a> &nbsp; &nbsp; -->
+<a href="https://hardaatbaath.github.io/"><img src="https://img.icons8.com/color-glass/96/domain.png" width="35px" alt="mail"></a> &nbsp;
+<a href="https://www.linkedin.com/in/hardaat-singh-baath/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="35px" alt="LinkedIn"></a> &nbsp;
+<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://img.icons8.com/color/96/google-scholar--v3.png" width="35px" alt="google scholar"></a> &nbsp;
+<a href="https://github.com/hardaatbaath"><img src="https://img.icons8.com/color-glass/96/github--v1.png" width="35px" alt="github"></a> &nbsp;
+<a href="https://www.kaggle.com/hardaatsinghbaath"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" width="35px" alt="kaggle"></a> &nbsp;
+<a href="https://hardaatbaath.github.io/data/Hardaat-Singh-Baath-Resume.pdf"><img src="https://img.icons8.com/ultraviolet/96/parse-from-clipboard.png" width="35px" alt="resume"></a> &nbsp;
+<a href="mailto:hardaatsinghbaath@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="35px" alt="mail"></a> &nbsp;
+<!-- <a href="https://www.researchgate.net/profile/Hardaat-Singh-Baath"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" width="35px" alt="mail"></a> &nbsp;
+<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/icons8-orcid-32.png" width="35px" alt="mail"></a> &nbsp; -->
 
 </p>
 
@@ -51,44 +51,44 @@
 ## Languages and Tools:
 * **Languages:**
 <p align="left"> 
- &nbsp; &nbsp; &nbsp; &nbsp; 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/></a>&nbsp; &nbsp;
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a> &nbsp; &nbsp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a> &nbsp; &nbsp;
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a> &nbsp; &nbsp;
- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/></a> &nbsp; &nbsp;
+ &nbsp; &nbsp; 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> &nbsp;&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> &nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> &nbsp;&nbsp;
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> &nbsp;&nbsp;
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> &nbsp;&nbsp;
 
 * **Libraries:**
 <p align="left"> 
- &nbsp; &nbsp; &nbsp; &nbsp;  
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/numpy.png" alt="numpy" width="60" height="60"/></a> &nbsp; &nbsp;
- <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:396/1*oNts6NyKkijiGUfLrPRDxg.png" alt="matplotlib" width="60" height="60"/></a> &nbsp; &nbsp;
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/000000/pandas.png" alt="pandas" width="60" height="60"/></a>&nbsp; &nbsp;
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/></a> &nbsp; &nbsp;
-<a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="60" height="60"/></a> &nbsp; &nbsp;
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/></a>&nbsp; &nbsp;
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/></a> &nbsp; &nbsp;
+ &nbsp; &nbsp;  
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/numpy.png" alt="numpy" width="40" height="40"></a> &nbsp;
+ <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:396/1*oNts6NyKkijiGUfLrPRDxg.png" alt="matplotlib" width="40" height="40"></a> &nbsp;
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/000000/pandas.png" alt="pandas" width="40" height="40"></a>&nbsp; &nbsp;
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"></a> &nbsp;
+<a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="40" height="40"></a> &nbsp;
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"></a>&nbsp; &nbsp;
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"></a> &nbsp;
 
 
 * **Frameworks:**
  <p align="left"> 
-   &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/1656004.png" alt="ros" width="200" height="50"/></a> &nbsp; &nbsp;
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/></a> &nbsp; &nbsp;
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/></a> &nbsp; &nbsp;
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/logo.png" alt="keras" width="60" height="60"/></a> &nbsp; &nbsp;
+   &nbsp; &nbsp; 
+<a href="https://www.ros.org" target="_blank" rel="noreferrer"><img src="https://logodix.com/logo/1656004.png" alt="ros" width="160" height="40"/></a> &nbsp;
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"></a> &nbsp;
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"></a> &nbsp;
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/logo.png" alt="keras" width="40" height="40"></a> &nbsp;
 
 * **Tools:**
 <p align="left"> 
-&nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/gazebo_logo.png" alt="gazebo" width="60" height="60"/></a> &nbsp; &nbsp;
-<a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/CoppeliaSim.png" alt="coppelia" width="60" height="60"/></a> &nbsp; &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a> &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; 
+<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/gazebo_logo.png" alt="gazebo" width="40" height="40"></a> &nbsp;
+<a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/CoppeliaSim.png" alt="coppelia" width="40" height="40"></a> &nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"></a> &nbsp;
 
 * **Platforms:**
  <p align="left"> 
-   &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a>&nbsp; &nbsp;
+   &nbsp; &nbsp; 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a>&nbsp; &nbsp;
 
 
 </p>
