@@ -52,43 +52,43 @@
 * **Languages:**
 <p align="left"> 
 &nbsp;&nbsp; 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/></a>&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>&nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a>&nbsp;
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/></a>&nbsp;
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>&nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>&nbsp;
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>&nbsp;
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/></a>&nbsp;
 
 * **Libraries:**
 <p align="left"> 
 &nbsp;&nbsp;  
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/numpy.png" alt="numpy" width="60" height="60"></a>&nbsp;
- <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:396/1*oNts6NyKkijiGUfLrPRDxg.png" alt="matplotlib" width="60" height="60"></a>&nbsp;
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/000000/pandas.png" alt="pandas" width="60" height="60"></a>&nbsp;
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"></a>&nbsp;
-<a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="60" height="60"></a>&nbsp;
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"></a>&nbsp;&nbsp;
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"></a>&nbsp;
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/numpy.png" alt="numpy" width="50" height="50"></a>&nbsp;
+ <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:396/1*oNts6NyKkijiGUfLrPRDxg.png" alt="matplotlib" width="50" height="50"></a>&nbsp;
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/000000/pandas.png" alt="pandas" width="50" height="50"></a>&nbsp;
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"></a>&nbsp;
+<a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="50" height="50"></a>&nbsp;
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"></a>&nbsp;
 
 
 * **Frameworks:**
  <p align="left"> 
   &nbsp;&nbsp; 
-<a href="https://www.ros.org" target="_blank" rel="noreferrer"><img src="https://logodix.com/logo/1656004.png" alt="ros" width="200" height="50"/></a>&nbsp;
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"></a>&nbsp;
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"></a>&nbsp;
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/logo.png" alt="keras" width="60" height="60"></a>&nbsp;
+<a href="https://www.ros.org" target="_blank" rel="noreferrer"><img src="https://logodix.com/logo/1656004.png" alt="ros" width="170" height="45"/></a>&nbsp;
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"></a>&nbsp;
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"></a>&nbsp;
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/logo.png" alt="keras" width="50" height="50"></a>&nbsp;
 
 * **Tools:**
 <p align="left"> 
 &nbsp;&nbsp;&nbsp; 
-<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/gazebo_logo.png" alt="gazebo" width="60" height="60"></a>&nbsp;
-<a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/CoppeliaSim.png" alt="coppelia" width="60" height="60"></a>&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"></a>&nbsp;
+<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/gazebo_logo.png" alt="gazebo" width="50" height="50"></a>&nbsp;
+<a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/CoppeliaSim.png" alt="coppelia" width="50" height="50"></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"></a>&nbsp;
 
 * **Platforms:**
  <p align="left"> 
   &nbsp;&nbsp; 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"></a>&nbsp;
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"></a>&nbsp;
 
 </p>
 
