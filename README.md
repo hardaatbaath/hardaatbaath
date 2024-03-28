@@ -56,6 +56,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>&nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>&nbsp;
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/96/node-js.png" alt="matlab" width="50" height="50"/></a>&nbsp;
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/></a>&nbsp;
 
 * **Libraries:**
@@ -84,6 +85,8 @@
 <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/gazebo_logo.png" alt="gazebo" width="50" height="50"></a>&nbsp;
 <a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/CoppeliaSim.png" alt="coppelia" width="50" height="50"></a>&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"></a>&nbsp;
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/96/docker.png" alt="git" width="50" height="50"></a>&nbsp;
+<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="git" width="50" height="50"></a>&nbsp;
 
 * **Platforms:**
  <p align="left"> 
