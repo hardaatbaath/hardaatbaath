@@ -26,27 +26,6 @@
 
 </p>
 
-<!--&nbsp;
-## Skills and Experience:
-* **Languages:**
-  * C/C++
-  * Python
-  * Java
-  * MATLAB
-* **Libraries:**
-  * Numpy
-  * Matplotlib
-  * Pandas
-  * Seaborn
-* **Frameworks:**
-  * Robotics Operating System
-  * PyTorch
-  * Tensorflow
-  * Keras 
-* **Tools:**
-  * Gazebo
-  * CoppeliaSim -->
-
 &nbsp;
 ## Languages and Tools:
 * **Languages:**
