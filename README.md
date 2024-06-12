@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=hardaatbaath&color=blueviolet&style=for-the-badge&label=Profile+Visits)
 
 - 🎓 I am a **pre-final year undergraduate student** pursuing a **BE in Computer Science** at **BITS Pilani, Goa.** 
-- 🧠 I am interested in the field of **Computer Vision** and **Robotics**.
+- 🧠 I am interested in the field of **Computer Vision**, **NeuroChaos Learning** and **Robotics**.
 - 🔍 I am looking for internship opportunities to collaborate in these fields.
 - 🦾 I am the Ex-Autonomous Subsystem lead of [Project Kratos](https://kratos-the-rover.github.io/)
 - 🤝 I am a **driven** and **enthusiastic problem solver** who likes to think outside the box. I believe in the value of teamwork.
