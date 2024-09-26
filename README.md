@@ -4,7 +4,7 @@
 ### <h3 align="center">I am a DL and Robotics Enthusiast</h3>
 ![](https://komarev.com/ghpvc/?username=hardaatbaath&color=blueviolet&style=for-the-badge&label=Profile+Visits)
 
-- 🎓 I am a **pre-final year undergraduate student** pursuing a **BE in Computer Science** at **BITS Pilani, Goa.** 
+- 🎓 I am a **final year undergraduate student** pursuing a **BE in Computer Science** at **BITS Pilani, Goa.** 
 - 🧠 I am interested in the field of **Computer Vision**, **Financial ML**, **NeuroChaos Learning** and **Robotics**.
 - 🔍 I am looking for internship opportunities to collaborate in these fields.
 - 🦾 I am the Ex-Autonomous Subsystem lead of [Project Kratos](https://kratos-the-rover.github.io/)
