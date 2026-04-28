@@ -31,13 +31,14 @@
 * **Languages:**
 <p align="left"> 
 &nbsp;&nbsp; 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>&nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>&nbsp;
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/96/node-js.png" alt="matlab" width="50" height="50"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" width="50" height="50"/></a>&nbsp;
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/></a>&nbsp;
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>&nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>&nbsp;
+<a href="https://www.java.com" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>&nbsp;
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://img.icons8.com/fluency/96/node-js.png" alt="matlab" width="50" height="50"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" width="50" height="50"/></a>&nbsp;
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/></a>&nbsp;
+</p>
 
 * **Libraries:**
 <p align="left"> 
@@ -49,6 +50,7 @@
 <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="50" height="50"></a>&nbsp;
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"></a>&nbsp;&nbsp;
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"></a>&nbsp;
+</p>
 
 
 * **Frameworks:**
@@ -58,6 +60,7 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"></a>&nbsp;
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"></a>&nbsp;
 <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/logo.png" alt="keras" width="50" height="50"></a>&nbsp;
+</p>
 
 * **Tools:**
 <p align="left"> 
@@ -69,22 +72,22 @@
 <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="git" width="50" height="50"></a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/google-sheets.png" alt="google sheets" width="50" height="50"></a>&nbsp;
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/arduino.png" alt="arduino" width="50" height="50"></a>&nbsp;
+</p>
 
 * **Platforms:**
  <p align="left"> 
   &nbsp;&nbsp; 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"></a>&nbsp;
-
 </p>
 
 &nbsp;  
 ## Statistics:
-<p>
 
-| ![Hardaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&theme=tokyonight&custom_title=Hardaat's%20GitHub%20Stats%20Stats&disable_animations=true)  | ![Hardaat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardaatbaath&theme=tokyonight&disable_animations=true) |
+| ![Hardaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&theme=tokyonight&custom_title=Hardaat's%20GitHub%20Stats) | ![Hardaat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardaatbaath&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardaatbaath&theme=tokyonight&custom_title=Language%20Stats&layout=donut-vertical&disable_animations=true) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=true) |
-</p>
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardaatbaath&theme=tokyonight&custom_title=Language%20Stats&layout=donut-vertical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=tokyonight) |
+
+
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=hardaatbaath&theme=nightowl)
 
