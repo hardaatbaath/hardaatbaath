@@ -1,28 +1,28 @@
-<img src = "https://github.com/hardaatbaath/hardaatbaath/blob/main/images/gif3.gif" width="1024" height="256"/>
+<img src="https://raw.githubusercontent.com/hardaatbaath/hardaatbaath/main/images/gif3.gif" width="1024" height="256"/>
 
 # <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Hardaat Singh Baath </h1>
-### <h3 align="center">I am a DL and Robotics Enthusiast</h3>
+### <h3 align="center">Machine Learning Engineer · Deep Learning & Robotics</h3>
 ![](https://komarev.com/ghpvc/?username=hardaatbaath&color=blueviolet&style=for-the-badge&label=Profile+Visits)
 
-- 🎓 I am a **final year undergraduate student** pursuing a **BE in Computer Science** at **BITS Pilani, Goa.** 
-- 🧠 I am interested in the field of **Computer Vision**, **Financial ML**, **NeuroChaos Learning** and **Robotics**.
-- 🔍 I am looking for internship opportunities to collaborate in these fields.
-- 🦾 I am the Ex-Autonomous Subsystem lead of [Project Kratos](https://kratos-the-rover.github.io/)
-- 🤝 I am a **driven** and **enthusiastic problem solver** who likes to think outside the box. I believe in the value of teamwork.
+- 🎓 I am a **Machine Learning Engineer** at **[Nurix.AI](https://nurix.ai)**, and a **B.E. in Computer Science** graduate from **BITS Pilani, Goa.**
+- 🧠 I work across **LLMs & RAG**, **Speech & Multimodal ML**, **Computer Vision**, and **Robotics**.
+- 🦾 Ex **Autonomous Subsystem Lead** of [Project Kratos](https://kratos-the-rover.github.io/), a student-built Mars rover.
+- 📄 Published at **CVIP 2023** on deep-learning restoration of cultural heritage.
+- 🤝 A **driven problem solver** who likes to think outside the box and believes in the value of teamwork.
 - ⚡  Fun fact **I love writing poetry.**
 - 📫 Feel free to contact me via my website, LinkedIn or good old email; I have shared the links to those and my resume below.
 
 
 <p align="center">
-<a href="https://hardaatbaath.github.io/"><img src="https://img.icons8.com/color-glass/96/domain.png" width="35px" alt="mail"></a>&nbsp;
-<a href="https://www.linkedin.com/in/hardaat-singh-baath/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="35px" alt="LinkedIn"></a>&nbsp;
+<a href="https://hardaatbaath.github.io/"><img src="https://img.icons8.com/color-glass/96/domain.png" width="35px" alt="website"></a>&nbsp;
+<a href="https://www.linkedin.com/in/hardaat-singh-baath/" target="_blank"><img src="https://img.icons8.com/color/96/linkedin.png" width="35px" alt="LinkedIn"></a>&nbsp;
 <a href="https://scholar.google.com/citations?user=8xumNrgAAAAJ&hl=en&oi=ao"><img src="https://img.icons8.com/color/96/google-scholar--v3.png" width="35px" alt="google scholar"></a>&nbsp;
 <a href="https://github.com/hardaatbaath"><img src="https://img.icons8.com/color-glass/96/github--v1.png" width="35px" alt="github"></a>&nbsp;
 <!-- <a href="https://www.kaggle.com/hardaatsinghbaath"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" width="35px" alt="kaggle"></a>&nbsp; -->
 <a href="https://hardaatbaath.github.io/data/Hardaat-Singh-Baath-Resume.pdf"><img src="https://img.icons8.com/ultraviolet/96/parse-from-clipboard.png" width="35px" alt="resume"></a>&nbsp;
 <a href="mailto:hardaatsinghbaath@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="35px" alt="mail"></a>&nbsp;
 <!-- <a href="https://www.researchgate.net/profile/Hardaat-Singh-Baath"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png" width="35px" alt="mail"></a>&nbsp;
-<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/icons8-orcid-32.png" width="35px" alt="mail"></a>&nbsp; -->
+<a href="https://orcid.org/0009-0000-8405-0125"><img src="https://raw.githubusercontent.com/hardaatbaath/hardaatbaath/main/images/icons8-orcid-32.png" width="35px" alt="orcid"></a>&nbsp; -->
 
 </p>
 
@@ -35,7 +35,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>&nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>&nbsp;
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://img.icons8.com/fluency/96/node-js.png" alt="matlab" width="50" height="50"/></a>&nbsp;
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://img.icons8.com/fluency/96/node-js.png" alt="nodejs" width="50" height="50"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" width="50" height="50"/></a>&nbsp;
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="display:inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/></a>&nbsp;
 </p>
@@ -59,17 +59,20 @@
 <a href="https://www.ros.org" target="_blank" rel="noreferrer"><img src="https://logodix.com/logo/1656004.png" alt="ros" width="170" height="45"/></a>&nbsp;
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"></a>&nbsp;
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"></a>&nbsp;
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/logo.png" alt="keras" width="50" height="50"></a>&nbsp;
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hardaatbaath/hardaatbaath/main/images/logo.png" alt="keras" width="50" height="50"></a>&nbsp;
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="50" height="50"></a>&nbsp;
 </p>
 
 * **Tools:**
 <p align="left"> 
 &nbsp;&nbsp;&nbsp; 
-<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/gazebo_logo.png" alt="gazebo" width="50" height="50"></a>&nbsp;
-<a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/hardaatbaath/hardaatbaath/blob/main/images/CoppeliaSim.png" alt="coppelia" width="50" height="50"></a>&nbsp;
+<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hardaatbaath/hardaatbaath/main/images/gazebo_logo.png" alt="gazebo" width="50" height="50"></a>&nbsp;
+<a href="https://www.coppeliarobotics.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hardaatbaath/hardaatbaath/main/images/CoppeliaSim.png" alt="coppelia" width="50" height="50"></a>&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"></a>&nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/96/docker.png" alt="git" width="50" height="50"></a>&nbsp;
-<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="git" width="50" height="50"></a>&nbsp;
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/96/docker.png" alt="docker" width="50" height="50"></a>&nbsp;
+<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" width="50" height="50"></a>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"></a>&nbsp;
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="50" height="50"></a>&nbsp;
 <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/google-sheets.png" alt="google sheets" width="50" height="50"></a>&nbsp;
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/arduino.png" alt="arduino" width="50" height="50"></a>&nbsp;
 </p>
@@ -83,7 +86,7 @@
 &nbsp;  
 ## Statistics:
 
-| ![Hardaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&theme=tokyonight&custom_title=Hardaat's%20GitHub%20Stats) | ![Hardaat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardaatbaath&theme=tokyonight) |
+| ![Hardaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&theme=tokyonight&custom_title=Hardaat%27s%20GitHub%20Stats) | ![Hardaat's GitHub Streak](https://streak-stats.demolab.com/?user=hardaatbaath&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardaatbaath&theme=tokyonight&custom_title=Language%20Stats&layout=donut-vertical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=tokyonight) |
 
