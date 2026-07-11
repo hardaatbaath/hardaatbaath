@@ -2,7 +2,13 @@
 
 # <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Hardaat Singh Baath </h1>
 ### <h3 align="center">Machine Learning Engineer · Deep Learning & Robotics</h3>
-![](https://komarev.com/ghpvc/?username=hardaatbaath&color=blueviolet&style=for-the-badge&label=Profile+Visits)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hardaatbaath&label=Profile%20Views&color=bb9af7&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hardaatbaath?label=Followers&style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b27" alt="GitHub followers" />
+  <a href="https://hardaatsinghbaath.com"><img src="https://img.shields.io/badge/Portfolio-Visit-bb9af7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hardaat-singh-baath/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" /></a>
+</p>
 
 - 🎓 I am a **Machine Learning Engineer** at **[Nurix.AI](https://nurix.ai)**, and a **B.E. in Computer Science** graduate from **BITS Pilani, Goa.**
 - 🧠 I work across **LLMs & RAG**, **Speech & Multimodal ML**, **Computer Vision**, and **Robotics**.
