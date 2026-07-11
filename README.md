@@ -95,7 +95,8 @@
 <div align="center">
 
 <!-- Stats + top-langs use github-stats-extended.vercel.app (a drop-in for
-     github-readme-stats); streak/activity from maintained instances. If a
+     github-readme-stats); streak/activity from maintained instances. The trophy
+     is a committed SVG from .github/workflows/trophy.yml (always renders). If a
      shared instance ever rate-limits, self-host anuraghazra/github-readme-stats
      and swap the URLs. -->
 
@@ -105,6 +106,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hardaatbaath&theme=tokyonight&hide_border=true&border_radius=10)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hardaatbaath&theme=nightowl&hide_border=true&area=true)
+
+![Trophies](https://raw.githubusercontent.com/hardaatbaath/hardaatbaath/main/assets/trophy.svg)
 
 </div>
 <!--
