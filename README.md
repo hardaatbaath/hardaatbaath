@@ -83,18 +83,21 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"></a>&nbsp;
 </p>
 
-&nbsp;  
-## Statistics:
+&nbsp;
+## 📊 Statistics
 
-| ![Hardaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&theme=tokyonight&custom_title=Hardaat%27s%20GitHub%20Stats) | ![Hardaat's GitHub Streak](https://streak-stats.demolab.com/?user=hardaatbaath&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardaatbaath&theme=tokyonight&custom_title=Language%20Stats&layout=donut-vertical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hardaatbaath&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=tokyonight) |
+<div align="center">
 
+<!-- These three render from maintained instances (streak-stats.demolab.com,
+     activity-graph, profile-trophy). The old github-readme-stats.vercel.app
+     "stats/top-langs" cards were removed — that shared instance is chronically
+     rate-limited and shows as broken images. -->
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=hardaatbaath&theme=tokyonight&hide_border=true&border_radius=10)
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=hardaatbaath&theme=nightowl)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hardaatbaath&theme=nightowl&hide_border=true&area=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hardaatbaath&theme=tokyonight&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 <!--
 **hardaatbaath/hardaatbaath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
