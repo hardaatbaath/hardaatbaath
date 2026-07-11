@@ -1,0 +1,38 @@
+name: Trophy
+
+on:
+  # Manual trigger — Actions tab → "Trophy" → Run workflow
+  workflow_dispatch:
+  # Refresh once a day
+  schedule:
+    - cron: "0 4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG (Tokyo Night)
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: tokyonight
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          if git diff --staged --quiet; then
+            echo "No trophy changes"
+          else
+            git commit -m "chore: update trophy"
+            git push
+          fi
