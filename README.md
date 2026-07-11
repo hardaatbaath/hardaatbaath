@@ -95,9 +95,9 @@
 <div align="center">
 
 <!-- Stats + top-langs use github-stats-extended.vercel.app (a drop-in for
-     github-readme-stats). Streak/activity from maintained instances; the snake
-     is a committed SVG from .github/workflows/snake.yml. If a shared instance
-     ever rate-limits, self-host anuraghazra/github-readme-stats and swap URLs. -->
+     github-readme-stats); streak/activity from maintained instances. If a
+     shared instance ever rate-limits, self-host anuraghazra/github-readme-stats
+     and swap the URLs. -->
 
 <img height="165" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=hardaatbaath&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
 <img height="165" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hardaatbaath&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
@@ -105,8 +105,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hardaatbaath&theme=tokyonight&hide_border=true&border_radius=10)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hardaatbaath&theme=nightowl&hide_border=true&area=true)
-
-![Contribution Snake](https://raw.githubusercontent.com/hardaatbaath/hardaatbaath/output/github-snake.svg)
 
 </div>
 <!--
